@@ -22,5 +22,4 @@ SPOTIFY_CLIENT_SECRET=your_client_secret
 SPOTIFY_REDIRECT_URI=http://localhost:3000/auth/callback
 ```
 
-Start the server and open `http://localhost:3000` in your browser. After logging
-in with Spotify, your top 10 tracks from the last month will be displayed.
+Start the server and open `http://localhost:3000` in your browser. After logging in with Spotify, your top 10 tracks from the last month will be displayed.

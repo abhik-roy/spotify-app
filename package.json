@@ -1,7 +1,7 @@
 {
   "name": "spotify-app",
   "version": "1.0.0",
-  "description": "Simple login page using Node.js and React",
+  "description": "Simple login page using Node.js, React, and Spotify OAuth",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
