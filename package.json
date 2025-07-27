@@ -1,0 +1,17 @@
+{
+  "name": "spotify-app",
+  "version": "1.0.0",
+  "description": "Simple login page using Node.js and React",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
